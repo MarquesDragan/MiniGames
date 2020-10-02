@@ -1,1 +1,2 @@
 # MiniGames
+# MiniGamesOnJavaScript
